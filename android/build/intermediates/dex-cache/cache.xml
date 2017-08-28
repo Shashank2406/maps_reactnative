@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.4_ed3c766d0f7d5d7dd261b56c44249d530167e08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.47.1_409d28dd96625ac2330f846d84f4748997b65d38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.2.4_d65f3335bb6d79f0f17a5d2f6c734f608bd3ebc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/GoogleMapPlayground/react-native-maps/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a1a49300cf7767fe0a5f751ee6646c62ad97e24">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/GoogleMapPlayground-react-native-maps-unspecified_89f65752db86f381fea5cce4582cf7403ab268a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a5f25eb57311d33333c188eb103ce6c56aced798.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7add8f8f903afe71a3e03d180f3f5279727af749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a4a52f9c71b28f4e93b66d6ebb0545a164ef504e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_156374070dbf5c75cd8e12240f2fa1c20ee381aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_3db782376dab8744c3b8bd4b5f749a19c7079110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0ceae16da07910daac313826b7f03379ac0eb5b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_36dd10bede090b91b7c501d19b213da81946e413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_d8eacdc9281f13aa95fc409b35b16387ad6aef63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6c63feddbc9795804a5e4730a8ad45ba25adc936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_075aeaf83ccbd2af4581e82cf02232240f58741a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_606684927396db1e3f19ef4da6fc438b9a0c3f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_7301eaf80633ae1446b3b4f34377a2c5e92b1a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_2a13ed3aa64054e484490d0262cb3ad15d39534c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.4_0df1be138215f28ee26319b5b21cbc63f868984f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_56da56189efdbf51167d4b3460e5e7d9e6ab6bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_5cc1bf136bbf66b85623c5c2e692af3ae31137e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_babddec61e5bd76a7a3753c6d196a06432a19d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_faca050e5dd2f4e91d193bbdfa0362dd4920ae4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_705bbdcee80150ccd05f746143a0c44df0949ee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.47.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_66b418b7a35a558b6b0b46d9ea2ac482a8bcdb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_53daa501212ac4f5e07118611c04b58fb9368b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/Users/shashank.srivastava/Desktop/OFFICE/GoogleMapPlayground/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.4_be09af9617360dfb35d8c7508c61aeadc249265f.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-GoogleMapPlayground.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>React.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Yoga.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>21FC9D59C588AD363BCEE733D499DA2B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>72239B79AF3EB20B52110948DC2C37B6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F7C71C99CFDD0344F29A8DBDF1E3C1A0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
